@@ -1,0 +1,1172 @@
+yahoo_xrank,yahoo_prerank,player,bye,yahoo_adp,fan_pts_proj
+1,8, false   Todd Gurley II LAR - RB,12,1.5,300.79
+2,13, false   Le'Veon Bell Pit - RB,7,1.9,288.61
+3,24, false   David Johnson Ari - RB,9,4.4,272.31
+4,26, false   Ezekiel Elliott Dal - RB,8,4.5,265.6
+5,31, false   Antonio Brown Pit - WR Injured: Questionable,7,4.5,252.97
+6,22, false   Saquon Barkley NYG - RB Injured: Questionable,9,8.4,273.43
+7,23, false   Alvin Kamara NO - RB,6,6.6,272.95
+8,36, false   DeAndre Hopkins Hou - WR,10,8.1,242.4
+9,34, false   Odell Beckham Jr. NYG - WR,9,9.9,245.95
+10,41, false   Julio Jones Atl - WR,8,11.2,216.11
+11,32, false   Kareem Hunt KC - RB,12,10.5,248.06
+12,47, false   Michael Thomas NO - WR,6,14.3,211.37
+13,37, false   Melvin Gordon LAC - RB,8,13.4,241.32
+14,51, false   Keenan Allen LAC - WR,8,16.8,207.53
+15,50, false   Davante Adams GB - WR,7,18,208
+16,45, false   A.J. Green Cin - WR,9,18.7,212.36
+17,53, false   Mike Evans TB - WR,5,23.2,204.96
+18,40, false   Dalvin Cook Min - RB,10,17.3,222.12
+19,63, false   Rob Gronkowski NE - TE,11,19.8,186.73
+20,46, false   Adam Thielen Min - WR,10,26.1,211.86
+21,73, false   Travis Kelce KC - TE,12,25.2,177.15
+22,84, false   Larry Fitzgerald Ari - WR,9,39.2,172.52
+23,70, false   Stefon Diggs Min - WR,10,32,178.13
+24,69, false   T.Y. Hilton Ind - WR Injured: Questionable,9,38.9,178.67
+25,38, false   Leonard Fournette Jax - RB,9,15.9,232.33
+26,52, false   Devonta Freeman Atl - RB,8,23.2,206.25
+27,54, false   Tyreek Hill KC - WR,12,28.9,203.35
+28,49, false   Jordan Howard Chi - RB,5,30,209.53
+29,81, false   Zach Ertz Phi - TE,9,32.1,174.21
+30,43, false   Jerick McKinnon SF - RB Injured: Questionable,11,29.7,213.6
+31,68, false   Demaryius Thomas Den - WR,10,44.2,178.97
+32,48, false   Christian McCaffrey Car - RB,4,28.2,211.02
+33,59, false   Amari Cooper Oak - WR,7,38.8,195.08
+34,72, false   Golden Tate Det - WR,6,52,177.41
+35,56, false   Joe Mixon Cin - RB,9,38.3,199.52
+36,1, false   Aaron Rodgers GB - QB,7,22.4,339.09
+37,60, false   JuJu Smith-Schuster Pit - WR,7,42.7,194.04
+38,44, false   Doug Baldwin Sea - WR Injured: Questionable,7,29.3,212.97
+39,65, false   Jarvis Landry Cle - WR,11,56.8,181.5
+40,5, false   Russell Wilson Sea - QB,7,41.1,316.67
+41,80, false   Josh Gordon Cle - WR Injured: Out,11,49.1,175.22
+42,3, false   Cam Newton Car - QB,4,52.3,320.74
+43,61, false   Allen Robinson II Chi - WR,5,53.3,189.32
+44,4, false   Tom Brady NE - QB,11,34.9,319.98
+45,42, false   Kenyan Drake Mia - RB,11,38.8,216.1
+46,75, false   Alex Collins Bal - RB,10,49.5,176.43
+47,76, false   Jay Ajayi Phi - RB,9,48.2,176.27
+48,2, false   Deshaun Watson Hou - QB,10,37.4,333.46
+49,116, false   Derrick Henry Ten - RB,8,53.3,149.55
+50,99, false   Corey Davis Ten - WR,8,85.4,157.29
+51,123, false   Evan Engram NYG - TE,9,53.2,146.68
+52,89, false   Brandin Cooks LAR - WR,12,57.7,166
+53,15, false   Drew Brees NO - QB,6,50.9,283.66
+54,57, false   LeSean McCoy Buf - RB,11,31.6,199.37
+55,66, false   Marvin Jones Jr. Det - WR,6,66.4,181.47
+56,71, false   Dion Lewis Ten - RB,8,68.4,177.66
+57,101, false   Royce Freeman Den - RB,10,85.7,156.59
+58,87, false   Lamar Miller Hou - RB,10,69.5,166.87
+59,124, false   Sammy Watkins KC - WR,12,97.9,146.57
+60,183, false   Rex Burkhead NE - RB Injured: Questionable,11,92,120.95
+61,140, false   Mark Ingram NO - RB Suspended,6,66.8,138.68
+62,103, false   Jamison Crowder Was - WR Injured: Questionable,4,99.5,155.01
+63,77, false   Robert Woods LAR - WR,12,76.9,175.85
+64,147, false   Michael Crabtree Bal - WR,10,86.4,136.66
+65,98, false   Greg Olsen Car - TE,4,54.1,157.54
+66,83, false   Jimmy Graham GB - TE,7,49.2,172.56
+67,94, false   Chris Hogan NE - WR,11,86.1,160.93
+68,58, false   Alshon Jeffery Phi - WR Injured: Physically Unable to Perform,9,46.6,197.18
+69,93, false   Robby Anderson NYJ - WR,11,103.8,161.47
+70,19, false   Matthew Stafford Det - QB,6,82.5,277.35
+71,7, false   Kirk Cousins Min - QB,10,67.9,301.18
+72,6, false   Carson Wentz Phi - QB Injured: Questionable,9,59.9,314.22
+73,112, false   Emmanuel Sanders Den - WR,10,104.5,152.03
+74,79, false   Devin Funchess Car - WR,4,87.2,175.38
+75,118, false   Cooper Kupp LAR - WR,12,103.6,148.2
+76,125, false   Marquise Goodwin SF - WR,11,106.5,146.47
+77,258, false   Kerryon Johnson Det - RB,6,111.6,94.65
+78,67, false   Rashaad Penny Sea - RB Injured: Questionable,7,66.9,179.85
+79,96, false   Pierre Garcon SF - WR,11,99.1,159
+80,78, false   Marshawn Lynch Oak - RB,7,83.5,175.49
+81,113, false   Will Fuller V Hou - WR,10,94.2,151.62
+82,153, false   Kyle Rudolph Min - TE,10,65,133.29
+83,122, false   Delanie Walker Ten - TE Injured: Questionable,8,67.6,147.16
+84,10, false   Jimmy Garoppolo SF - QB,11,68.1,290.68
+85,119, false   Isaiah Crowell NYJ - RB Injured: Questionable,11,113.5,147.9
+86,161, false   Trey Burton Chi - TE,5,83.7,129.68
+87,18, false   Philip Rivers LAC - QB,8,109,278.49
+88,12, false   Ben Roethlisberger Pit - QB,7,99.4,289.08
+89,86, false   Nelson Agholor Phi - WR Injured: Questionable,9,108,167.3
+90,55, false   Ronald Jones II TB - RB,5,75.9,201.37
+91,155, false   Jordy Nelson Oak - WR,7,102.1,132.69
+92,114, false   Sterling Shepard NYG - WR,9,118.3,150.82
+93,95, false   Tevin Coleman Atl - RB,8,92.6,160.03
+94,247, false   C.J. Anderson Car - RB,4,113.7,99.05
+95,20, false   Andrew Luck Ind - QB,9,110.8,274.6
+96,62, false   Sony Michel NE - RB Injured: Questionable,11,88.1,187.62
+97,17, false   Patrick Mahomes II KC - QB,12,114.2,279.17
+98,16, false   Matt Ryan Atl - QB,8,107.3,281.23
+99,9, false   Marcus Mariota Ten - QB,8,120.6,291.84
+100,206, false   David Njoku Cle - TE,11,118.3,111.8
+101,200, false   Jordan Reed Was - TE Injured: Questionable,4,100.1,115.11
+102,14, false   Jared Goff LAR - QB,12,97.3,286.89
+103,91, false   Tarik Cohen Chi - RB,5,109,162.47
+104,184, false   George Kittle SF - TE Injured: Questionable,11,119,120.75
+105,139, false   Aaron Jones GB - RB Suspended,7,107.5,139.53
+106,193, false   Jack Doyle Ind - TE,9,126.8,117.14
+107,141, false   Carlos Hyde Cle - RB,11,110.3,138.57
+108,190, false   O.J. Howard TB - TE,5,125.2,118.6
+109,145, false   Mike Williams LAC - WR,8,128.1,136.85
+110,174, false   Duke Johnson Jr. Cle - RB,11,119.9,123.74
+111,154, false   Kenny Stills Mia - WR Injured: Questionable,11,132.1,132.84
+112,131, false   Kelvin Benjamin Buf - WR,11,125.2,142.89
+113,21, false   Alex Smith Was - QB,4,129.3,274.38
+114,126, false   D.J. Moore Car - WR,4,127.6,145.62
+115,337, false   Chris Carson Sea - RB,7,120.8,59.84
+116,74, false   Chris Thompson Was - RB Injured: Questionable,4,111.9,177.12
+117,159, false   Julian Edelman NE - WR Suspended,11,106.9,130.54
+118,111, false   Jacksonville Jax - DEF,9,62.5,152.16
+119,148, false   Randall Cobb GB - WR,7,123.5,136.33
+120,162, false   Minnesota Min - DEF,10,73.7,129.51
+121,136, false   Jamaal Williams GB - RB Injured: Questionable,7,120.7,140.49
+122,11, false   Dak Prescott Dal - QB,8,119,289.93
+123,175, false   Los Angeles LAR - DEF,12,74.8,123.22
+124,321, false   Peyton Barber TB - RB,5,127.3,64.11
+125,130, false   Kenny Golladay Det - WR,6,129.5,143.42
+126,106, false   Marlon Mack Ind - RB Injured: Questionable,9,103.2,153.87
+127,198, false   Cameron Brate TB - TE,5,133.1,116.18
+128,133, false   Cameron Meredith NO - WR,6,131,142.47
+129,137, false   Philadelphia Phi - DEF,9,72.1,140.39
+130,120, false   Marqise Lee Jax - WR,9,131.2,147.73
+131,138, false   Tyler Lockett Sea - WR Injured: Questionable,7,126.9,140.2
+132,25, false   Blake Bortles Jax - QB,9,132.4,270.95
+133,231, false   Los Angeles LAC - DEF,8,94.7,103.96
+134,27, false   Derek Carr Oak - QB,7,121.8,264.82
+135,33, false   Eli Manning NYG - QB,9,122.1,246.83
+136,167, false   Denver Den - DEF,10,85.6,126.76
+137,226, false   Houston Hou - DEF,10,93.3,105.39
+138,237, false   Jared Cook Oak - TE,7,132.4,102.79
+139,248, false   Charles Clay Buf - TE,11,135.8,98.53
+140,30, false   Case Keenum Den - QB,10,121.6,256.7
+141,128, false   Rishard Matthews Ten - WR Injured: Physically Unable to Perform,8,132.8,144.89
+142,82, false   DeVante Parker Mia - WR Injured: Questionable,11,118.8,173.09
+143,144, false   Nick Chubb Cle - RB,11,119.7,137.32
+144,192, false   Austin Seferian-Jenkins Jax - TE Injured: Questionable,9,132.2,117.45
+145,28, false   Mitchell Trubisky Chi - QB,5,124.7,262.31
+146,88, false   Stephen Gostkowski NE - K Injured: Questionable,11,78.9,166.22
+147,64, false   Greg Zuerlein LAR - K,12,80.9,181.94
+148,157, false   Anthony Miller Chi - WR,5,128.2,131.79
+149,85, false   Justin Tucker Bal - K,10,86.2,171.25
+150,302, false   Tyler Eifert Cin - TE,9,128,77.72
+151,151, false   DeSean Jackson TB - WR,5,129.1,134.13
+152,281, false   Ricky Seals-Jones Ari - TE,9,135,85.47
+153,260, false   Jordan Wilkins Ind - RB,9,129.5,94.11
+154,187, false   Eric Ebron Ind - TE,9,132.3,119.61
+155,132, false   Chris Godwin TB - WR,5,130.6,142.88
+156,102, false   Matt Bryant Atl - K Injured: Questionable,8,98.4,156.3
+157,217, false   Michael Gallup Dal - WR,8,125.9,108.53
+158,164, false   Allen Hurns Dal - WR,8,126.1,129.05
+159,29, false   Andy Dalton Cin - QB,9,121,262.1
+160,180, false   Benjamin Watson NO - TE,6,124.6,122.62
+161,238, false   New Orleans NO - DEF,6,131.5,102.06
+162,259, false   Baltimore Bal - DEF,10,118.7,94.15
+163,39, false   Jameis Winston TB - QB Suspended,5,128.9,228.22
+164,188, false   Austin Hooper Atl - TE,8,130.7,118.75
+165,307, false   Ty Montgomery GB - RB,7,122,75.35
+166,169, false   Mohamed Sanu Atl - WR,8,125,126.37
+167,92, false   Tyrod Taylor Cle - QB,11,118.6,162.18
+168,109, false   Josh Doctson Was - WR,4,131.8,152.69
+169,254, false   Carolina Car - DEF,4,135,95.59
+170,249, false   Danny Amendola Mia - WR,11,121.3,98.11
+171,297, false   Mike Gesicki Mia - TE,11,128.6,79.88
+172,35, false   Ryan Tannehill Mia - QB,11,-,245.09
+173,107, false   Wil Lutz NO - K,6,108.9,153.19
+174,170, false   Vance McDonald Pit - TE Injured: Questionable,7,129.6,126
+175,189, false   Pittsburgh Pit - DEF,7,122.5,118.7
+176,222, false   New England NE - DEF,11,128.3,106.94
+177,181, false   Ted Ginn Jr. NO - WR,6,124.2,122.11
+178,105, false   Jake Elliott Phi - K,9,114.8,154.86
+179,115, false   Matt Prater Det - K,6,119.7,150.7
+180,182, false   Giovani Bernard Cin - RB,9,127.3,122.1
+181,196, false   John Ross Cin - WR,9,-,116.55
+182,283, false   Kansas City KC - DEF,12,136.8,84.99
+183,215, false   Dede Westbrook Jax - WR,9,127.6,109.58
+184,110, false   Dan Bailey Dal - K,8,110.3,152.56
+185,225, false   Devontae Booker Den - RB,10,127.1,105.43
+186,1032, false   Jordan Matthews NE - WR NA,11,128.9,0
+187,255, false   LeGarrette Blount Det - RB,6,120.9,95.22
+188,100, false   Harrison Butker KC - K,12,122,157.01
+189,234, false   Chicago Chi - DEF,5,141.8,103.62
+190,156, false   Theo Riddick Det - RB,6,129.6,132.35
+191,199, false   Courtland Sutton Den - WR,10,126.2,115.61
+192,158, false   Tyrell Williams LAC - WR,8,-,131.42
+193,251, false   Atlanta Atl - DEF,8,141.7,97.37
+194,263, false   Corey Clement Phi - RB Injured: Questionable,9,123.6,92.82
+195,90, false   Bilal Powell NYJ - RB,11,127.6,164.63
+196,104, false   Chris Boswell Pit - K,7,132.3,155.01
+197,264, false   Green Bay GB - DEF,7,142.7,92.48
+198,163, false   Latavius Murray Min - RB,10,123.3,129.19
+199,269, false   Samaje Perine Was - RB Injured: Questionable,4,123.4,90.37
+200,272, false   Arizona Ari - DEF,9,144.9,89.38
+201,244, false   James White NE - RB,11,122.6,100.24
+202,257, false   Keelan Cole Jax - WR,9,-,95
+203,1104, false   Dez Bryant Dal - WR NA,8,117.3,0
+204,232, false   Seattle Sea - DEF,7,122.6,103.81
+205,173, false   Paul Richardson Jr. Was - WR,4,127.3,123.85
+206,142, false   Mason Crosby GB - K,7,132.8,138.31
+207,218, false   Matt Breida SF - RB Injured: Questionable,11,129.8,107.99
+208,152, false   Calvin Ridley Atl - WR,8,125.4,133.71
+209,304, false   Chris Ivory Buf - RB,11,-,76.83
+210,186, false   Mike Wallace Phi - WR,9,-,119.83
+211,250, false   Cincinnati Cin - DEF,9,142.5,98.05
+212,171, false   Spencer Ware KC - RB Injured: Questionable,12,127.3,125.52
+213,887, false   Antonio Gates LAC - TE NA,8,-,0
+214,166, false   Graham Gano Car - K,4,130.9,126.81
+215,205, false   Austin Ekeler LAC - RB,8,-,112.5
+216,280, false   Hayden Hurst Bal - TE,10,126.9,85.66
+217,121, false   Kai Forbath Min - K,10,138.1,147.17
+218,127, false   Robbie Gould SF - K,11,133.7,145.57
+219,240, false   New York NYG - DEF,9,135.9,101.58
+220,220, false   Ryan Grant Ind - WR,9,-,107.65
+221,168, false   Brandon McManus Den - K,10,130.8,126.72
+222,519, false   Jake Butt Den - TE,10,126.6,3.54
+223,134, false   Ryan Succop Ten - K,8,133.6,142.1
+224,227, false   Tennessee Ten - DEF,8,134.2,105.11
+225,202, false   Donte Moncrief Jax - WR,9,-,114.51
+226,422, false   James Conner Pit - RB,7,-,25.84
+227,97, false   Joe Flacco Bal - QB,10,-,158.14
+228,328, false   Gerald Everett LAR - TE Injured: Questionable,12,-,62.13
+229,108, false   Corey Coleman Buf - WR,11,131,153.03
+230,197, false   Vernon Davis Was - TE,4,123.4,116.5
+231,179, false   Adam Vinatieri Ind - K,9,125.1,122.67
+232,365, false   Corey Grant Jax - RB,9,-,43
+233,276, false   Cole Beasley Dal - WR Injured: Questionable,8,118.9,86.86
+234,352, false   Adam Shaheen Chi - TE Injured: Questionable,5,-,49.11
+235,1160, false   Daniel Carlson Min - K,10,133.4,0
+236,312, false   Doug Martin Oak - RB,7,127.9,71.86
+237,165, false   Baker Mayfield Cle - QB,11,116.9,128.16
+238,301, false   Buffalo Buf - DEF,11,127.3,78.45
+239,233, false   Josh McCown NYJ - QB,11,-,103.65
+240,345, false   Stephen Anderson Hou - TE,10,-,53.44
+241,246, false   Detroit Det - DEF,6,132.9,99.07
+242,229, false   Sam Bradford Ari - QB,9,-,104.36
+243,203, false   Sam Darnold NYJ - QB,11,-,114.3
+244,209, false   Josh Allen Buf - QB,11,-,111.06
+245,316, false   Nyheim Hines Ind - RB,9,132.4,69.56
+246,239, false   Quincy Enunwa NYJ - WR Injured: Questionable,11,-,101.62
+247,150, false   Ka'imi Fairbairn Hou - K Injured: Questionable,10,-,135.16
+248,271, false   Tyler Kroft Cin - TE,9,-,90.04
+249,261, false   Rob Kelley Was - RB,4,-,93.88
+250,117, false   Josh Lambo Jax - K,9,136.6,149.14
+251,295, false   San Francisco SF - DEF,11,123.9,80.84
+252,506, false   Chase Edmonds Ari - RB,9,-,3.98
+253,344, false   Frank Gore Mia - RB,11,121.2,53.52
+254,346, false   Jonathan Stewart NYG - RB,9,-,53
+255,864, false   Jason Witten Dal - TE NA,8,-,0
+256,356, false   Mike Gillislee NE - RB,11,-,47.69
+257,230, false   Jermaine Kearse NYJ - WR,11,-,104.28
+258,680, false   Zach Miller Chi - TE Injured: Injured Reserve,5,-,0
+260,1109, false   Orleans Darkwa NYG - RB NA,9,-,0
+261,274, false   Travis Benjamin LAC - WR,8,-,87.37
+262,1171, false   Jason Myers Sea - K,7,-,0
+263,561, false   Julius Thomas Mia - TE NA,11,-,0
+264,176, false   Stephen Hauschka Buf - K,11,125.2,123.14
+265,273, false   Garrett Celek SF - TE,11,-,88.54
+266,668, false   Coby Fleener NO - TE NA,6,-,0
+267,208, false   Albert Wilson Mia - WR,11,-,111.1
+268,178, false   Dustin Hopkins Was - K,4,-,122.75
+270,262, false   Ameer Abdullah Det - RB,6,-,93.48
+271,655, false   Jeremy Maclin Bal - WR NA,10,-,0
+272,1107, false   Brandon LaFell Cin - WR NA,9,-,0
+273,313, false   Javorius Allen Bal - RB,10,-,71.85
+275,204, false   Phil Dawson Ari - K,9,-,112.63
+276,411, false   Ryan Griffin Hou - TE,10,-,30.58
+277,532, false   Adrian Peterson Ari - RB NA,9,-,0
+278,284, false   Jesse James Pit - TE,7,120.1,84.91
+279,282, false   Kendall Wright Min - WR,10,-,85.41
+280,516, false   C.J. Beathard SF - QB,11,-,3.61
+281,129, false   Martavis Bryant Oak - WR,7,126.4,144.18
+282,507, false   Marcedes Lewis GB - TE,7,-,3.93
+283,434, false   Terrance West NO - RB,6,-,20.63
+284,214, false   John Brown Bal - WR,10,-,110.07
+285,838, false   Tavarres King Min - WR Injured: Questionable,10,-,0
+287,270, false   J.J. Nelson Ari - WR,9,-,90.48
+288,285, false   Tampa Bay TB - DEF,5,-,84.35
+289,149, false   Terrelle Pryor Sr. NYJ - WR Injured: Questionable,11,-,135.53
+290,300, false   Dallas Dal - DEF,8,122.5,78.54
+291,277, false   T.J. Yeldon Jax - RB,9,-,86.72
+293,267, false   Washington Was - DEF,4,-,90.7
+296,579, false   Dontrelle Inman Chi - WR NA,5,-,0
+302,160, false   Chandler Catanzaro TB - K,5,-,129.72
+304,308, false   Adam Humphries TB - WR,5,-,75.24
+305,213, false   Jaron Brown Sea - WR,7,-,110.49
+1724,349, false   Jermaine Gresham Ari - TE Injured: Physically Unable to Perform,9,-,50.12
+1725,424, false   Tion Green Ind - RB,9,-,24.92
+1880,290, false   Ed Dickson Sea - TE Injured: Out,7,-,82.98
+1886,1041, false   C.J. Fiedorowicz Hou - TE NA,10,-,0
+1890,491, false   Blaine Gabbert Ten - QB,8,-,7.15
+1892,243, false   Kenny Britt NE - WR Injured: Questionable,11,-,100.82
+1893,1150, false   Nick Folk TB - K NA,5,-,0
+1894,256, false   Taylor Gabriel Chi - WR Injured: Questionable,5,-,95.06
+1895,336, false   Mike Davis Sea - RB,7,-,60
+1896,329, false   A.J. Derby Mia - TE,11,-,61.82
+1897,224, false   Luke Willson Det - TE,6,123.6,105.83
+1898,146, false   D'Onta Foreman Hou - RB Injured: Physically Unable to Perform,10,127.5,136.88
+1899,362, false   Rod Smith Dal - RB,8,-,44.37
+1900,303, false   Miami Mia - DEF,11,-,76.9
+1901,1170, false   Nick Novak LAC - K NA,8,-,0
+1902,377, false   Nick O'Leary Buf - TE,11,-,39.32
+1903,223, false   Terrance Williams Dal - WR,8,-,106.52
+1904,286, false   Seth DeValve Cle - TE Injured: Questionable,11,-,83.87
+1905,357, false   Wayne Gallman NYG - RB,9,-,47.2
+1906,294, false   Bruce Ellington Hou - WR,10,-,81.1
+1907,298, false   Justin Hardy Atl - WR,8,-,79.46
+1908,1169, false   Mike Nugent Oak - K,7,-,0
+1909,275, false   Brice Butler Ari - WR Injured: Questionable,9,-,86.97
+1910,512, false   Trevor Siemian Min - QB,10,-,3.66
+1911,375, false   Deonte Thompson Dal - WR,8,-,39.43
+1912,413, false   Josh Bellamy Chi - WR,5,-,29.66
+1913,341, false   J.D. McKissic Sea - RB,7,-,56.77
+1914,385, false   Jeff Heuerman Den - TE Injured: Questionable,10,-,37.41
+1915,185, false   Brandon Marshall Sea - WR,7,-,120.68
+1916,430, false   Levine Toilolo Det - TE,6,-,21.53
+1917,432, false   Darren Fells Cle - TE,11,-,21.28
+1918,319, false   Richard Rodgers Phi - TE Injured: Questionable,9,-,65.66
+1919,1157, false   Blair Walsh Sea - K NA,7,-,0
+1920,177, false   Eric Decker NE - WR,11,123.6,122.89
+1921,331, false   Tyler Boyd Cin - WR,9,-,61.36
+1922,358, false   Virgil Green LAC - TE,8,-,46.52
+1923,1061, false   Logan Thomas Buf - TE,11,-,0
+1924,333, false   Cordarrelle Patterson NE - WR,11,-,60.91
+1925,387, false   Lance Kendricks GB - TE,7,-,36.62
+1926,388, false   Dion Sims Chi - TE Injured: Questionable,5,-,36.37
+1927,530, false   Damiere Byrd Car - WR,4,-,0
+1928,287, false   Tyler Higbee LAR - TE,12,-,83.73
+1929,371, false   TJ Jones Det - WR,6,-,40.74
+1930,368, false   Rhett Ellison NYG - TE,9,-,41.28
+1931,279, false   Torrey Smith Car - WR,4,-,85.95
+1932,340, false   Chris Conley KC - WR,12,-,58.02
+1933,689, false   Alfred Morris SF - RB,11,-,0
+1934,332, false   Seth Roberts Oak - WR,7,-,61.17
+1935,407, false   Jeremy Kerley Buf - WR,11,-,31.86
+1936,252, false   Trent Taylor SF - WR,11,-,97.35
+1937,1094, false   Brandon Coleman NO - WR NA,6,-,0
+1938,353, false   Roger Lewis NYG - WR,9,-,47.93
+1939,366, false   Bennie Fowler Chi - WR,5,-,42.78
+1940,318, false   Indianapolis Ind - DEF,9,-,67.13
+1941,381, false   Dwayne Allen NE - TE Injured: Questionable,11,-,38.27
+1942,392, false   Chris Moore Bal - WR,10,-,36.13
+1943,436, false   Cody Latimer NYG - WR,9,-,20.47
+1944,355, false   Demetrius Harris KC - TE Suspended,12,-,47.88
+1945,172, false   Randy Bullock Cin - K,9,-,124.39
+1946,306, false   Chester Rogers Ind - WR,9,-,75.38
+1947,1127, false   Matt Jones Phi - RB,9,-,0
+1948,439, false   Eric Tomlinson NYJ - TE,11,-,19.87
+1949,305, false   Ryan Fitzpatrick TB - QB,5,-,76.51
+1950,693, false   Austin Traylor Den - TE Injured: Questionable,10,-,0
+1951,431, false   Erik Swoope Ind - TE,9,-,21.53
+1952,325, false   Jonnu Smith Ten - TE,8,-,63.01
+1953,568, false   Will Tye NE - TE,11,-,0
+1954,201, false   Cody Parkey Chi - K,5,-,115.1
+1955,1120, false   Anthony Fasano Mia - TE NA,11,-,0
+1956,844, false   Mychal Rivera Jax - TE NA,9,-,0
+1957,558, false   Luke Stocker Ten - TE,8,-,0
+1958,423, false   Wendell Smallwood Phi - RB,9,-,25.16
+1959,690, false   James Hanna Dal - TE NA,8,-,0
+1960,324, false   Nick Vannett Sea - TE,7,-,63.32
+1961,1135, false   C.J. Uzomah Cin - TE,9,-,0
+1962,221, false   Zay Jones Buf - WR,11,-,107.14
+1963,408, false   Damien Williams KC - RB Injured: Questionable,12,-,31.44
+1964,1141, false   Darren Waller Bal - TE,10,-,0
+1965,639, false   Joshua Perkins Phi - TE Injured: Questionable,9,-,0
+1966,339, false   Clive Walford NYJ - TE,11,-,58.2
+1967,1034, false   Troy Niklas NE - TE NA,11,-,0
+1968,447, false   Alfred Blue Hou - RB,10,-,16.69
+1969,587, false   Malcolm Mitchell NE - WR NA,11,-,0
+1970,476, false   Jacoby Brissett Ind - QB,9,-,13.33
+1971,450, false   Jeremy Sprinkle Was - TE,4,-,16.05
+1972,1065, false   Jaeden Graham Atl - TE,8,-,0
+1973,669, false   Ryan Malleck Pit - TE Injured: Injured Reserve,7,-,0
+1974,1121, false   Jerome Cunningham Ten - TE,8,-,0
+1975,867, false   Christopher Herndon IV NYJ - TE,11,-,0
+1976,679, false   Orson Charles Cle - TE,11,-,0
+1977,929, false   Jake Roh Atl - TE NA,8,-,0
+1978,1029, false   Dejon Allen Chi - TE,5,-,0
+1979,907, false   Alec Bloom Ari - TE,9,-,0
+1980,1035, false   Cole Hunt LAC - TE Injured: Questionable,8,-,0
+1981,460, false   Tyler Conklin Min - TE,10,-,15.13
+1982,744, false   Josiah Price Min - TE Injured: Out,10,-,0
+1983,702, false   Mo Alie-Cox Ind - TE,9,-,0
+1984,936, false   Christian Scotland-Williamson Pit - TE,7,-,0
+1985,984, false   Julian Allen Cle - TE NA,11,-,0
+1986,1098, false   Marcus Lucas Det - TE,6,-,0
+1987,993, false   Deon Yelder NO - TE,6,-,0
+1988,784, false   Pharaoh Brown Oak - TE,7,-,0
+1989,569, false   Tim Semisch Ten - TE,8,-,0
+1990,711, false   Jordan Leggett NYJ - TE,11,-,0
+1991,765, false   Colin Jeter TB - TE,5,-,0
+1992,641, false   J.P. Holtz Was - TE,4,-,0
+1993,373, false   Ian Thomas Car - TE,4,-,39.59
+1994,1052, false   Clayton Wilson Sea - TE Injured: Physically Unable to Perform,7,-,0
+1995,656, false   Devon Cajuste Cle - TE,11,-,0
+1996,596, false   Moritz Boehringer Cin - TE,9,-,0
+1997,635, false   Henry Krieger-Coble LAR - TE,12,-,0
+1998,315, false   Dallas Goedert Phi - TE,9,-,70.92
+1999,905, false   David Wells Dal - TE,8,-,0
+2000,582, false   Hunter Henry LAC - TE Injured: Physically Unable to Perform,8,94.3,0
+2001,1062, false   Garrett Hudson Was - TE,4,-,0
+2002,814, false   Billy Brown Phi - TE,9,-,0
+2003,817, false   Brandon Barnes Det - TE NA,6,-,0
+2004,983, false   Ryan Smith GB - TE,7,-,0
+2005,326, false   Jordan Akins Hou - TE,10,-,62.82
+2006,973, false   Marcus Baugh Oak - TE,7,-,0
+2007,820, false   Robert Tonyan GB - TE,7,-,0
+2008,781, false   Keith Towbridge Buf - TE,11,-,0
+2009,652, false   David Grinnage Jax - TE,9,-,0
+2010,713, false   Eric Saubert Atl - TE,8,-,0
+2011,623, false   Braedon Bowman LAC - TE,8,-,0
+2012,787, false   Anthony Kukwa LAC - TE NA,8,-,0
+2013,478, false   Will Dissly Sea - TE,7,-,12.74
+2014,1008, false   James Winchester KC - TE,12,-,0
+2015,912, false   Kevin McDermott Min - TE Injured: Questionable,10,-,0
+2016,309, false   Mark Andrews Bal - TE,10,-,75.12
+2017,718, false   Bucky Hodges Pit - TE,7,-,0
+2018,779, false   Jason Croom Buf - TE,11,-,0
+2019,855, false   Chris Gragg NYJ - TE NA,11,-,0
+2020,1066, false   Garrett Dickerson NYG - TE,9,-,0
+2021,1123, false   Jeff Cumberland LAC - TE NA,8,-,0
+2022,962, false   Kevin Rader GB - TE,7,-,0
+2023,548, false   Wes Saxton SF - TE,11,-,0
+2024,1114, false   Tyler Ott Sea - TE,7,-,0
+2025,1036, false   Ben Johnson LAC - TE,8,-,0
+2026,393, false   Dalton Schultz Dal - TE,8,-,36.08
+2027,999, false   Stephen Baggett Cle - TE,11,-,0
+2028,803, false   Emanuel Byrd GB - TE,7,-,0
+2029,554, false   Gabe Holmes Ari - TE,9,-,0
+2030,444, false   Ryan Izzo NE - TE,11,-,17.07
+2031,535, false   Gannon Sinclair Phi - TE,9,-,0
+2032,862, false   Chris Bazile Ari - TE,9,-,0
+2033,847, false   Adam Zaruba Phi - TE Injured: Injured Reserve,9,-,0
+2034,1033, false   Jace Amaro KC - TE,12,-,0
+2035,674, false   Bryce Williams Ari - TE,9,-,0
+2036,816, false   Tyrone Swoopes Sea - TE,7,-,0
+2037,772, false   Cole Hikutini SF - TE,11,-,0
+2038,978, false   Blake Mack KC - TE,12,-,0
+2039,956, false   Nate Wozniak NO - TE,6,-,0
+2040,917, false   Andrew Vollert Ari - TE,9,-,0
+2041,542, false   Matt LaCosse Den - TE,10,-,0
+2042,960, false   Nick Keizer Bal - TE,10,-,0
+2043,840, false   Alex Gray Atl - TE,8,-,0
+2044,527, false   Brian Parker Den - TE,10,-,0
+2045,1111, false   Clay Harbor NO - TE NA,6,-,0
+2046,825, false   Evan Baylis Car - TE,4,-,0
+2047,622, false   Jake McGee Pit - TE Injured: Injured Reserve,7,-,0
+2048,658, false   Cole Wick SF - TE Injured: Questionable,11,-,0
+2049,573, false   Manasseh Garner Was - TE Injured: Injured Reserve,4,-,0
+2050,899, false   Jason Reese TB - TE NA,5,-,0
+2051,662, false   Jason Vander Laan Car - TE Injured: Questionable,4,-,0
+2052,733, false   Johnny Mundt LAR - TE,12,-,0
+2053,996, false   Pharoah McKever Pit - TE,7,-,0
+2054,884, false   Tyler Hoppes Min - TE,10,-,0
+2055,620, false   Beau Sandland Ari - TE NA,9,-,0
+2056,860, false   Jevoni Robinson Hou - TE,10,-,0
+2057,701, false   Beau Brinkley Ten - TE,8,-,0
+2058,695, false   Garrett Griffin NO - TE,6,-,0
+2059,556, false   Matt Lengel Hou - TE,10,-,0
+2060,610, false   Rico Gathers Dal - TE,8,-,0
+2061,627, false   Kyle Carter Sea - TE,7,-,0
+2062,824, false   Blake Jarwin Dal - TE,8,-,0
+2063,544, false   Khari Lee Buf - TE,11,-,0
+2064,730, false   Mason Schreck Cin - TE,9,-,0
+2065,1021, false   DeAndre Goolsby Jax - TE,9,-,0
+2066,1134, false   MyCole Pruitt Hou - TE,10,-,0
+2067,401, false   Troy Fumagalli Den - TE Injured: Questionable,10,-,34.05
+2068,859, false   Kent Taylor Car - TE NA,4,-,0
+2069,1122, false   Chris Manhertz Car - TE Injured: Physically Unable to Perform,4,-,0
+2070,798, false   Andrew DePaola Oak - TE,7,-,0
+2071,747, false   Antony Auclair TB - TE,5,-,0
+2072,920, false   Ross Dwelley SF - TE,11,-,0
+2073,1113, false   Scott Simonson NYG - TE,9,-,0
+2074,949, false   Matt Flanagan Was - TE,4,-,0
+2075,687, false   Ryan O'Malley NYG - TE Injured: Questionable,9,-,0
+2076,930, false   Troy Mangen Atl - TE,8,-,0
+2077,870, false   Tim Wright KC - TE,12,-,0
+2078,1028, false   Shane Wimann NE - TE NA,11,-,0
+2079,894, false   Donnie Ernsberger TB - TE NA,5,-,0
+2080,1020, false   Ethan Wolf Ten - TE,8,-,0
+2081,1063, false   Austin Roberts LAC - TE Injured: Injured Reserve,8,-,0
+2082,826, false   Zach Conque Jax - TE NA,9,-,0
+2083,473, false   Durham Smythe Mia - TE,11,-,13.93
+2084,615, false   Thomas Duarte Mia - TE,11,-,0
+2085,741, false   Sean Culkin LAC - TE,8,-,0
+2086,1095, false   Je'Ron Hamm LAC - TE,8,-,0
+2087,775, false   Anthony Firkser Ten - TE,8,-,0
+2088,595, false   Temarrick Hemingway LAR - TE,12,-,0
+2089,1003, false   Jordan Franks Cin - TE,9,-,0
+2090,466, false   Jordan Thomas Hou - TE,10,-,14.89
+2091,616, false   Patrick Scales Chi - TE Injured: Questionable,5,-,0
+2092,1071, false   Cam Serigne Car - TE,4,-,0
+2093,990, false   Paul Butler Oak - TE,7,-,0
+2094,811, false   Colin Thompson Chi - TE,5,-,0
+2095,736, false   Scott Orndoff Jax - TE,9,-,0
+2096,600, false   David Morgan Min - TE,10,-,0
+2097,574, false   Daniel Brown Chi - TE,5,-,0
+2098,480, false   Brock Osweiler Mia - QB,11,-,12.73
+2099,671, false   Louis Murphy SF - WR NA,11,-,0
+2100,327, false   Jalen Richard Oak - RB,7,-,62.57
+2101,379, false   Kerwynn Williams KC - RB,12,-,38.63
+2102,564, false   Matt Moore Mia - QB NA,11,-,0
+2103,684, false   John Phillips NO - TE,6,-,0
+2104,195, false   Cairo Santos NYJ - K Injured: Questionable,11,-,116.83
+2105,818, false   Gavin Escobar Mia - TE,11,-,0
+2106,1143, false   Neal Sterling NYJ - TE Injured: Questionable,11,-,0
+2107,403, false   Charcandrick West KC - RB Injured: Questionable,12,-,33.45
+2108,241, false   Kevin White Chi - WR,5,-,101.15
+2109,1112, false   Michael Hoomanawanui NO - TE,6,-,0
+2110,418, false   Aldrick Robinson SF - WR,11,-,27.49
+2111,481, false   DeShone Kizer GB - QB,7,-,12.25
+2112,1146, false   Tre McBride NYJ - WR,11,-,0
+2113,822, false   Christine Michael Ind - RB,9,-,0
+2114,380, false   Josh Hill NO - TE,6,-,38.56
+2115,1147, false   Geoff Swaim Dal - TE,8,-,0
+2116,1130, false   Blake Bell Min - TE Injured: Questionable,10,-,0
+2117,399, false   Andre Holmes Buf - WR,11,-,34.72
+2118,545, false   Brent Celek Phi - TE NA,9,-,0
+2119,296, false   Jarius Wright Car - WR,4,-,80.05
+2120,317, false   Darren Sproles Phi - RB,9,-,68.67
+2121,400, false   Maxx Williams Bal - TE,10,-,34.51
+2122,351, false   Elijah McGuire NYJ - RB Injured: Doubtful,11,-,49.57
+2123,467, false   Xavier Grimble Pit - TE Injured: Questionable,7,-,14.88
+2124,590, false   Tajae Sharpe Ten - WR,8,-,0
+2125,1055," false   Codey McElroy LAR - WR,TE",12,-,0
+2126,1060," false   Kayaune Ross Cin - WR,TE",9,-,0
+2127,841, false   Dan Arnold NO - WR,6,-,0
+2128,845, false   Andre Ellington Hou - RB NA,10,-,0
+2129,334, false   DeAndre Washington Oak - RB,7,-,60.72
+2130,1116, false   Jay Cutler Mia - QB NA,11,-,0
+2131,599, false   Jerell Adams NYG - TE,9,-,0
+2132,637, false   Maurice Harris Was - WR,4,-,0
+2133,682, false   Alex Ellis KC - TE,12,-,0
+2134,528, false   Logan Paulsen Atl - TE,8,-,0
+2135,374, false   Nick Boyle Bal - TE,10,-,39.5
+2136,402, false   Michael Campanaro Ten - WR Injured: Questionable,8,-,33.77
+2137,770, false   Kendrick Bourne SF - WR,11,-,0
+2138,1140, false   Randall Telfer Ind - TE NA,9,-,0
+2139,322, false   C.J. Prosise Sea - RB,7,-,64.05
+2140,592, false   Kyle Nelson SF - TE,11,-,0
+2141,631, false   Hakeem Valles Det - TE,6,-,0
+2142,849, false   Cobi Hamilton Ari - WR NA,9,-,0
+2143,389, false   Rashard Higgins Cle - WR,11,-,36.32
+2144,1152, false   Nick Rose Hou - K,10,-,0
+2145,289, false   Oakland Oak - DEF,7,121.9,83.25
+2146,348, false   Johnny Holton Oak - WR,7,-,52.75
+2147,586, false   Harry Douglas Ten - WR NA,8,-,0
+2148,288, false   Jeremy Hill NE - RB,11,-,83.6
+2149,417, false   Phillip Dorsett NE - WR,11,-,28.44
+2150,292, false   Kenneth Dixon Bal - RB,10,-,81.54
+2151,194, false   Geronimo Allison GB - WR,7,-,116.9
+2152,821, false   Eddie Lacy Sea - RB NA,7,-,0
+2153,428, false   Eli Rogers Pit - WR Injured: Physically Unable to Perform,7,-,22.66
+2154,265," false   Jaylen Samuels Pit - RB,TE",7,-,91.79
+2155,895," false   Tanner Hudson TB - RB,TE",5,-,0
+2156,335, false   Mack Hollins Phi - WR Injured: Questionable,9,-,60.27
+2157,638, false   Malachi Jones Chi - WR,5,-,0
+2158,634, false   Mose Frazier Car - WR,4,-,0
+2159,676, false   Marcus Tucker Pit - WR Injured: Questionable,7,-,0
+2160,666, false   Rashawn Scott Mia - WR,11,-,0
+2161,1019, false   Jordan Veasy Ten - WR,8,-,0
+2162,952, false   De'Mornay Pierson-El Was - WR NA,4,-,0
+2163,370, false   DaeSean Hamilton Den - WR,10,-,40.78
+2164,278, false   D.J. Chark Jr. Jax - WR,9,-,86.75
+2165,714, false   DeAngelo Yancey GB - WR,7,-,0
+2166,712, false   Shelton Gibson Phi - WR,9,-,0
+2167,919, false   Steven Dunbar SF - WR,11,-,0
+2168,649, false   Alonzo Russell NYG - WR,9,-,0
+2169,534, false   DeAndrew White Den - WR,10,-,0
+2170,632, false   Mekale McKay Dal - WR,8,-,0
+2171,1007, false   Vyncint Smith Hou - WR,10,-,0
+2172,555, false   Jake Kumerow GB - WR Injured: Questionable,7,-,0
+2173,861, false   Brandon Zylstra Min - WR Injured: Questionable,10,-,0
+2174,457, false   Trey Quinn Was - WR,4,-,15.34
+2175,890, false   Andre Levrone Bal - WR,10,-,0
+2176,1005, false   Anthony Mahoungou Phi - WR,9,-,0
+2177,427, false   Braxton Berrios NE - WR,11,-,23.12
+2178,734, false   Austin Duke Car - WR,4,-,0
+2179,915, false   Jalen Tolliver Ari - WR,9,-,0
+2180,790, false   Malcolm Lewis Mia - WR,11,-,0
+2181,1087, false   Matt Hazel Ind - WR,9,-,0
+2182,1067, false   Josh Crockett KC - WR,12,-,0
+2183,1148, false   Rasheed Bailey Car - WR,4,-,0
+2184,839, false   Colby Pearson Atl - WR,8,-,0
+2185,449, false   Dylan Cantrell LAC - WR Injured: Questionable,8,-,16.19
+2186,1072, false   Adonis Jennings GB - WR,7,-,0
+2187,793, false   Damore'ea Stringfellow Sea - WR,7,-,0
+2188,836, false   Justin Thomas Pit - WR,7,-,0
+2189,842, false   Lance Lenoir Dal - WR,8,-,0
+2190,932, false   Detrich Clark Atl - WR NA,8,-,0
+2191,757, false   Quincy Adeboyejo Bal - WR Injured: Physically Unable to Perform,10,-,0
+2192,550, false   DeAndre Carter Phi - WR,9,-,0
+2193,1010, false   Jester Weah Hou - WR,10,-,0
+2194,536, false   Shane Wynn Jax - WR Injured: Questionable,9,-,0
+2195,1037, false   J.J. Jones LAC - WR,8,-,0
+2196,791, false   Drew Morgan Mia - WR,11,-,0
+2197,749, false   Bobo Wilson TB - WR Injured: Questionable,5,-,0
+2198,1069, false   Aaron Lacombe LAR - WR NA,12,-,0
+2199,723, false   David Moore Sea - WR,7,-,0
+2200,754, false   Zach Pascal Ind - WR,9,-,0
+2201,850, false   Marvin Bracy Sea - WR NA,7,-,0
+2202,406, false   Justin Watson TB - WR,5,-,31.94
+2203,474, false   Russell Gage Atl - WR,8,-,13.9
+2204,985, false   Janarion Grant Bal - WR,10,-,0
+2205,745, false   Deante Burton Atl - WR,8,-,0
+2206,934, false   Dontez Byrd Atl - WR,8,-,0
+2207,440, false   Jaleel Scott Bal - WR,10,-,19.57
+2208,858, false   River Cracraft Den - WR,10,-,0
+2209,1096, false   Seantavius Jones Ind - WR,9,-,0
+2210,210, false   James Washington Pit - WR,7,-,111.03
+2211,1000, false   Jawill Davis NYG - WR,9,-,0
+2212,235, false   Christian Kirk Ari - WR,9,-,103.5
+2213,643, false   Cayleb Jones Min - WR Suspended,10,-,0
+2214,633, false   Tevaun Smith Jax - WR Injured: Injured Reserve,9,-,0
+2215,1018, false   Devin Ross Ten - WR,8,-,0
+2216,998, false   Quincy Redmon Mia - WR NA,11,-,0
+2217,667, false   Brandon Shippen Ten - WR,8,-,0
+2218,743, false   Artavis Scott LAC - WR,8,-,0
+2219,720, false   Robert Davis Was - WR Injured: Injured Reserve,4,-,0
+2220,1012, false   Cam Phillips Buf - WR,11,-,0
+2221,463, false   Marcell Ateman Oak - WR,7,-,14.95
+2222,323, false   Quadree Henderson Pit - WR,7,-,63.78
+2223,883, false   Armanti Foreman Min - WR NA,10,-,0
+2224,1013, false   Robert Foster Buf - WR,11,-,0
+2225,807, false   Kermit Whitfield Cin - WR,9,-,0
+2226,763, false   Trey Griffey Pit - WR,7,-,0
+2227,1076, false   Malik Turner Sea - WR,7,-,0
+2228,948, false   Shay Fields Was - WR,4,-,0
+2229,893, false   Sergio Bailey II TB - WR,5,-,0
+2230,613, false   Demarcus Ayers Chi - WR,5,-,0
+2231,207, false   Antonio Callaway Cle - WR,11,-,111.4
+2232,974, false   Saeed Blacknall Oak - WR,7,-,0
+2233,1073, false   Jared Murphy Cin - WR,9,-,0
+2234,783, false   Montay Crockett Jax - WR,9,-,0
+2235,724, false   Isaiah Ford Mia - WR,11,-,0
+2236,1079, false   Bryce Bobo Den - WR,10,-,0
+2237,966, false   Da'Mari Scott Cle - WR,11,-,0
+2238,1058, false   Eldridge Massington NO - WR NA,6,-,0
+2239,939, false   John Diarse Den - WR,10,-,0
+2240,853, false   Dan Williams III Was - WR,4,-,0
+2241,533, false   Dres Anderson Dal - WR,8,-,0
+2242,1030, false   Garrett Johnson Chi - WR,5,-,0
+2243,843, false   Fred Brown LAR - WR,12,-,0
+2244,737, false   Amba Etta-Tawo NYG - WR,9,-,0
+2245,646, false   Paul Turner NE - WR,11,-,0
+2246,800, false   Marcus Kemp KC - WR,12,-,0
+2247,458, false   Austin Proehl Buf - WR,11,-,15.29
+2248,477, false   Ray-Ray McCloud III Buf - WR,11,-,13.14
+2249,794, false   Austin Carr NO - WR,6,-,0
+2250,1053, false   Darvin Kidsy Was - WR,4,-,0
+2251,372, false   Richie James Jr. SF - WR,11,-,39.93
+2252,685, false   K.J. Brent Ind - WR Injured: Questionable,9,-,0
+2253,1051, false   Tim Wilson Phi - WR,9,-,0
+2254,1074, false   Mark Chapman Den - WR,10,-,0
+2255,538, false   Jordan Leslie Den - WR Injured: Questionable,10,-,0
+2256,386, false   Allen Lazard Jax - WR,9,-,37.01
+2257,804, false   Greg Ward Jr. Phi - WR,9,-,0
+2258,880, false   Jeff Badet Min - WR Injured: Questionable,10,-,0
+2259,236, false   Carlos Henderson Den - WR Suspended,10,-,103.13
+2260,941, false   Jimmy Williams III Den - WR,10,-,0
+2261,624, false   Jamaal Jones Car - WR,4,-,0
+2262,938, false   Steve Ishmael Ind - WR,9,-,0
+2263,748, false   Thomas Sperbeck TB - WR NA,5,-,0
+2264,696, false   Kendal Thompson LAR - WR,12,-,0
+2265,752, false   Krishawn Hogan Ind - WR Injured: Questionable,9,-,0
+2266,612, false   Devin Lucien NE - WR,11,-,0
+2267,906, false   Nick Williams Ten - WR,8,-,0
+2268,823, false   Brian Brown Det - WR,6,-,0
+2269,675, false   Andy Jones Det - WR Injured: Physically Unable to Perform,6,-,0
+2270,320, false   Tre'Quan Smith NO - WR,6,-,64.7
+2271,740, false   Travin Dural NO - WR Injured: Injured Reserve,6,-,0
+2272,1068, false   Josh Smith NO - WR NA,6,-,0
+2273,1044, false   Damoun Patterson Pit - WR,7,-,0
+2274,943, false   LaQuvionte Gonzalez LAR - WR NA,12,-,0
+2275,1057, false   Davon Grayson KC - WR NA,12,-,0
+2276,854, false   Rashard Davis Phi - WR,9,-,0
+2277,1031, false   Shaq Roland Chi - WR NA,5,-,0
+2278,1025, false   Darren Andrews NE - WR Injured: Out,11,-,0
+2279,1050, false   C.J. Duncan Ari - WR,9,-,0
+2280,1136, false   Kenny Bell Den - WR NA,10,-,0
+2281,788, false   Isaac Whitney Oak - WR,7,-,0
+2282,758, false   C.J. Board Cle - WR,11,-,0
+2283,645, false   Hunter Sharp NYG - WR,9,-,0
+2284,390, false   Korey Robertson Min - WR,10,-,36.3
+2285,1023, false   Brandon Powell Det - WR,6,-,0
+2286,750, false   Carlton Agudosi Ari - WR,9,-,0
+2287,735, false   Fred Ross Jr. Car - WR Injured: Questionable,4,-,0
+2288,785, false   Keon Hatcher Oak - WR,7,-,0
+2289,722, false   Stacy Coley Min - WR Injured: Questionable,10,-,0
+2290,293, false   Jordan Lasley Bal - WR,10,-,81.48
+2291,970, false   Taj Williams Atl - WR,8,-,0
+2292,799, false   Gehrig Dieter KC - WR,12,-,0
+2293,991, false   Keith Kirkwood NO - WR,6,-,0
+2294,968, false   Ka'Raun White Cin - WR,9,-,0
+2295,729, false   Malachi Dupre Buf - WR,11,-,0
+2296,796, false   Cody Hollister NE - WR Injured: Out,11,-,0
+2297,808, false   Keeon Johnson NYG - WR NA,9,-,0
+2298,891, false   Jaelon Acklin Bal - WR Injured: Injured Reserve,10,-,0
+2299,653, false   Nelson Spruce LAC - WR,8,-,0
+2300,412, false   Deontay Burnett Ten - WR,8,-,30.05
+2301,1084, false   Darius Prince Phi - WR,9,-,0
+2302,981, false   Byron Pringle KC - WR,12,-,0
+2303,782, false   Michael Clark GB - WR NA,7,-,0
+2304,1132, false   DeAndre Smelter Jax - WR,9,-,0
+2305,673, false   DeVier Posey Bal - WR,10,-,0
+2306,597, false   Keenan Reynolds Sea - WR,7,-,0
+2307,931, false   Christian Blake Atl - WR,8,-,0
+2308,756, false   Tim Patrick Den - WR,10,-,0
+2309,831, false   Reggie Davis Atl - WR,8,-,0
+2310,857, false   Marquess Wilson Phi - WR NA,9,-,0
+2311,819, false   Dontez Ford Det - WR,6,-,0
+2312,686, false   Max McCaffrey SF - WR Injured: Questionable,11,-,0
+2313,618, false   Devin Fuller Atl - WR NA,8,-,0
+2314,950, false   Rashad Ross Ari - WR NA,9,-,0
+2315,614, false   Daniel Braverman KC - WR,12,-,0
+2316,1124, false   Devin Smith NYJ - WR NA,11,-,0
+2317,944, false   Steven Mitchell Jr. LAR - WR,12,-,0
+2318,967, false   Derrick Willies Cle - WR,11,-,0
+2319,694, false   Marquis Bundy NYG - WR,9,-,0
+2320,1078, false   Marcus Peterson LAC - WR NA,8,-,0
+2321,456, false   Javon Wims Chi - WR Injured: Questionable,5,-,15.55
+2322,1099, false   Jeremy Butler Buf - WR NA,11,-,0
+2323,1001, false   Devonte Boyd Cin - WR,9,-,0
+2324,780, false   Brandon Reilly Buf - WR Injured: Questionable,11,-,0
+2325,903, false   Malik Earl Dal - WR NA,8,-,0
+2326,700, false   Cyril Grayson Jr. Sea - WR,7,-,0
+2327,359, false   Equanimeous St. Brown GB - WR,7,-,45.8
+2328,979, false   Elijah Marks KC - WR NA,12,-,0
+2329,1081, false   Austin Wolf Ari - WR,9,-,0
+2330,330, false   Dante Pettis SF - WR,11,-,61.72
+2331,774, false   Brisly Estime NYJ - WR NA,11,-,0
+2332,549, false   Greg Little Ari - WR,9,-,0
+2333,898, false   Erv Philips TB - WR,5,-,0
+2334,566, false   Darius Jennings Ten - WR,8,-,0
+2335,342, false   Reece Fountain Ind - WR,9,-,56.71
+2336,986, false   Chad Beebe Min - WR,10,-,0
+2337,621, false   Canaan Severin NYG - WR NA,9,-,0
+2338,951, false   Mikah Holder Was - WR NA,4,-,0
+2339,626, false   Dom Williams Det - WR NA,6,-,0
+2340,660, false   Tevin Jones Pit - WR,7,-,0
+2341,383, false   J'Mon Moore GB - WR,7,-,37.82
+2342,964, false   Evan Berry Cle - WR,11,-,0
+2343,969, false   Caleb Scott Sea - WR,7,-,0
+2344,1026, false   Chris Lacy Det - WR,6,-,0
+2345,935, false   Lamar Jordan Atl - WR,8,-,0
+2346,947, false   Simmie Cobbs Jr. Was - WR,4,-,0
+2347,1014, false   Elijaah Goins Ten - WR NA,8,-,0
+2348,771, false   K.D. Cannon Dal - WR,8,-,0
+2349,1046, false   Deontez Alexander Det - WR NA,6,-,0
+2350,995, false   Jordan Smallwood KC - WR,12,-,0
+2351,470, false   Damion Ratley Cle - WR,11,-,14.5
+2352,856, false   Justice Liggins LAC - WR,8,-,0
+2353,452, false   Cedrick Wilson Dal - WR Injured: Injured Reserve,8,-,15.77
+2354,670, false   Darius Powe NYG - WR NA,9,-,0
+2355,914, false   Trent Sherfield Ari - WR,9,-,0
+2356,918, false   Corey Willis Ari - WR,9,-,0
+2357,755, false   Tim White Bal - WR,10,-,0
+2358,1085, false   Allenzae Staggers Was - WR,4,-,0
+2359,601, false   Kolby Listenbee Ind - WR NA,9,-,0
+2360,742, false   Andre Patton LAC - WR,8,-,0
+2361,1017, false   Cameron Batson Ten - WR,8,-,0
+2362,1075, false   Blake Jackson Cle - WR,11,-,0
+2363,1138, false   Geremy Davis LAC - WR,8,-,0
+2364,953, false   Cam Sims Was - WR,4,-,0
+2365,827, false   Riley McCarron NE - WR,11,-,0
+2366,1082, false   Darren Carrington II Dal - WR,8,-,0
+2367,897, false   Dorren Miller Jax - WR,9,-,0
+2368,863, false   Lamar Atkins Jax - WR NA,9,-,0
+2369,871, false   Deon Cain Ind - WR Injured: Injured Reserve,9,-,0
+2370,1048, false   Matt Fleming Chi - WR NA,5,-,0
+2371,933, false   Devin Gray Atl - WR,8,-,0
+2372,1070, false   KhaDarel Hodge LAR - WR,12,-,0
+2373,792, false   Francis Owusu Mia - WR,11,-,0
+2374,415, false   Keke Coutee Hou - WR Injured: Questionable,10,-,29.39
+2375,916, false   Jonah Trinnaman NYJ - WR,11,-,0
+2376,378, false   Marquez Valdes-Scantling GB - WR,7,-,39.02
+2377,657, false   Jace Billingsley Det - WR,6,-,0
+2378,904, false   Marchie Murdock Dal - WR Injured: Injured Reserve,8,-,0
+2379,475, false   Auden Tate Cin - WR,9,-,13.71
+2380,942, false   Ricky Jeune Dal - WR,8,-,0
+2381,889, false   Jake Wieneke Min - WR,10,-,0
+2382,992, false   Marlon Brown Chi - WR,5,-,0
+2383,764, false   Bug Howard Car - WR,4,-,0
+2384,1024, false   Teo Redding Det - WR,6,-,0
+2385,876, false   Brandon Williams Ind - TE NA,9,-,0
+2386,1144, false   Ben Koyack Jax - TE,9,-,0
+2387,1047, false   Josh Huff NO - WR Suspended,6,-,0
+2388,659, false   Jalin Marshall NYJ - WR NA,11,-,0
+2389,343, false   Jacquizz Rodgers TB - RB,5,-,55.99
+2390,395, false   Thomas Rawls NYJ - RB,11,-,35.49
+2391,314," false   Tavon Austin Dal - WR,RB Injured: Questionable",8,-,71.66
+2392,567, false   Lee Smith Oak - TE,7,-,0
+2393,762, false   Rod Streater Buf - WR,11,-,0
+2394,405, false   Russell Shepard NYG - WR Injured: Questionable,9,-,32.34
+2395,1125, false   Jaelen Strong Jax - WR NA,9,-,0
+2396,268, false   Curtis Samuel Car - WR,4,-,90.54
+2397,1097, false   Philly Brown Den - WR Injured: Injured Reserve,10,-,0
+2398,420, false   Ricardo Louis Cle - WR Injured: Injured Reserve,11,-,26.85
+2399,219, false   Willie Snead IV Bal - WR,10,-,108
+2400,1159, false   Giorgio Tavecchio Oak - K NA,7,-,0
+2401,584, false   Jamaal Charles Den - RB NA,10,-,0
+2402,435, false   James O'Shaughnessy Jax - TE,9,-,20.6
+2403,465, false   Charone Peake NYJ - WR,11,-,14.94
+2404,629, false   Alan Cross TB - TE,5,-,0
+2405,778, false   Phillip Supernaw Ten - TE NA,8,-,0
+2406,688, false   Jaydon Mickens Jax - WR,9,-,0
+2407,446, false   Robert Turbin Ind - RB Suspended,9,-,16.79
+2408,705, false   Brenton Bersin Car - WR NA,4,-,0
+2409,852, false   Charles Johnson NYJ - WR,11,-,0
+2410,253, false   Charles Sims TB - RB Injured: Questionable,5,-,96.58
+2411,455, false   Derek Carrier Oak - TE,7,-,15.59
+2412,299, false   Taywan Taylor Ten - WR,8,-,79.35
+2413,699, false   Sean McGrath Det - TE,6,-,0
+2414,708, false   Michael Roberts Det - TE,6,-,0
+2415,448, false   Justin Hunter Pit - WR,7,-,16.26
+2416,1128, false   Jeremy Langford Mia - RB,11,-,0
+2417,135, false   Caleb Sturgis LAC - K,8,-,141.35
+2418,441, false   Marvin Hall Atl - WR,8,-,19.04
+2419,438, false   Darrius Heyward-Bey Pit - WR,7,-,19.99
+2420,409, false   Braxton Miller Hou - WR,10,-,31.4
+2421,266, false   Cleveland Cle - DEF,11,127.2,91.5
+2422,703, false   Travaris Cadet Buf - RB,11,-,0
+2423,1090, false   James Wright Ind - WR Injured: Questionable,9,-,0
+2424,410, false   Niles Paul Jax - TE,9,-,31.32
+2425,563, false   Lucky Whitehead NYJ - WR,11,-,0
+2426,547, false   Shane Vereen NO - RB,6,-,0
+2427,1131, false   Vince Mayle Bal - TE,10,-,0
+2428,143, false   Sebastian Janikowski Sea - K,7,124.6,138.12
+2429,216, false   Aldrick Rosas NYG - K,9,-,109.38
+2430,717, false   Griff Whalen Oak - WR,7,-,0
+2431,608, false   Aaron Burbridge SF - WR,11,-,0
+2432,559, false   Bradley Marquez Det - WR,6,-,0
+2433,384, false   Brian Quick Was - WR,4,-,37.71
+2434,885, false   Kamryn Pettway Min - RB NA,10,-,0
+2435,728, false   Khalfani Muhammad Ten - RB NA,8,-,0
+2436,397, false   Akrum Wadley Ten - RB,8,-,35.35
+2437,715, false   T.J. Logan Ari - RB,9,-,0
+2438,940, false   Phillip Lindsay Den - RB,10,-,0
+2439,987, false   Johnny Stanton Min - RB Injured: Questionable,10,-,0
+2440,922, false   Chris Ezeala Bal - RB,10,-,0
+2441,619, false   Keith Marshall Was - RB NA,4,-,0
+2442,946, false   Martez Carter Was - RB NA,4,-,0
+2443,739, false   Tim Cook Jax - RB,9,-,0
+2444,577, false   Bronson Hill Ari - RB NA,9,-,0
+2445,442, false   Taquan Mizzell Chi - RB,5,-,17.31
+2446,338, false   John Kelly LAR - RB,12,-,59.53
+2447,955, false   George Winn Ind - RB NA,9,-,0
+2448,376, false   De'Angelo Henderson Den - RB,10,-,39.4
+2449,707, false   Joe Williams SF - RB,11,-,0
+2450,972, false   Khalid Hill Sea - RB Injured: Injured Reserve,7,-,0
+2451,802, false   Austin Johnson TB - RB,5,-,0
+2452,546, false   John Crockett Bal - RB NA,10,-,0
+2453,1083, false   Justin Stockton Sea - RB,7,-,0
+2454,989, false   Chris Warren III Oak - RB,7,-,0
+2455,900, false   Shaun Wilson TB - RB Injured: Questionable,5,-,0
+2456,551, false   Terrence Magee Atl - RB,8,-,0
+2457,837, false   Lenard Tillery LAR - RB NA,12,-,0
+2458,291, false   Ito Smith Atl - RB,8,-,82.93
+2459,913, false   Austin Ramesh Ari - RB NA,9,-,0
+2460,957, false   Mark Thompson Bal - RB,10,-,0
+2461,881, false   Mike Boone Min - RB,10,-,0
+2462,347, false   Jeremy McNichols SF - RB,11,-,52.75
+2463,872, false   Trenton Cannon NYJ - RB Injured: Questionable,11,-,0
+2464,361, false   Josh Adams Phi - RB Injured: Questionable,9,-,44.83
+2465,1080, false   Gerald Holmes Sea - RB Injured: Questionable,7,-,0
+2466,888, false   Roc Thomas Min - RB,10,-,0
+2467,879, false   Justin Jackson LAC - RB,8,-,0
+2468,404, false   Ryan Nall Chi - RB,5,-,33.18
+2469,488, false   Mack Brown Min - RB Injured: Questionable,10,-,8.99
+2470,1016, false   Larry Rose III LAR - RB NA,12,-,0
+2471,640, false   Brandon Wilds Jax - RB,9,-,0
+2472,1022, false   Kyle Lewis GB - RB,7,-,0
+2473,902, false   Jordan Chunn Dal - RB,8,-,0
+2474,777, false   Jarveon Williams Cin - RB,9,-,0
+2475,398, false   Boston Scott NO - RB,6,-,35.03
+2476,767, false   Brandon Radcliff Mia - RB,11,-,0
+2477,719, false   Sam Rogers Buf - RB,11,-,0
+2478,997, false   Buddy Howell Jr. Mia - RB,11,-,0
+2479,650, false   Aaron Green Buf - RB NA,11,-,0
+2480,1011, false   Keith Ford Buf - RB,11,-,0
+2481,311, false   Kalen Ballage Mia - RB Injured: Questionable,11,-,72.62
+2482,846, false   Mike James Det - RB NA,6,-,0
+2483,1015, false   Dalyn Dawkins Ten - RB,8,-,0
+2484,926, false   Malik Williams Atl - RB,8,-,0
+2485,472, false   Donnel Pumphrey Phi - RB Injured: Questionable,9,-,14.18
+2486,834, false   Dare Ogunbowale TB - RB,5,-,0
+2487,954, false   Elijah Wellman Was - RB Injured: Injured Reserve,4,-,0
+2488,630, false   Russell Hansbrough LAC - RB,8,-,0
+2489,753, false   James Summers Pit - RB,7,-,0
+2490,1045, false   Robert Martin NYG - RB,9,-,0
+2491,1009, false   Terry Swanson Hou - RB,10,-,0
+2492,609, false   Darius Jackson Dal - RB,8,-,0
+2493,813, false   Akeem Judd GB - RB NA,7,-,0
+2494,988, false   Henry Poggi NE - RB,11,-,0
+2495,815, false   Algernon Brown KC - RB,12,-,0
+2496,726, false   Marquez Williams Cle - RB NA,11,-,0
+2497,976, false   Jarvion Franklin Pit - RB,7,-,0
+2498,468, false   Devante Mays GB - RB Injured: Questionable,7,-,14.88
+2499,1145, false   Marcus Murphy Buf - RB,11,-,0
+2500,1064, false   Sherman Badie Ari - RB,9,-,0
+2501,1002, false   Quinton Flowers Cin - RB,9,-,0
+2502,928, false   Luke McNitt Atl - RB,8,-,0
+2503,1027, false   Ralph Webb NE - RB,11,-,0
+2504,1077, false   James Butler Oak - RB,7,-,0
+2505,909, false   Reggie Bonnafon Car - RB,4,-,0
+2506,1004, false   Ray Lawry KC - RB,12,-,0
+2507,925, false   Justin Crawford Atl - RB,8,-,0
+2508,394, false   Bo Scarbrough Dal - RB Injured: Questionable,8,-,35.87
+2509,982, false   Darrel Williams KC - RB,12,-,0
+2510,1039, false   Detrez Newsome LAC - RB,8,-,0
+2511,716, false   Alex Armah Car - RB,4,-,0
+2512,971, false   Marcus Martin LAR - RB,12,-,0
+2513,965, false   Dontrell Hilliard Cle - RB,11,-,0
+2514,648, false   Tra Carson Cin - RB,9,-,0
+2515,1043, false   Zach Olstad Buf - RB NA,11,-,0
+2516,1049, false   Ryan Yurachek Oak - RB,7,-,0
+2517,945, false   Jeff Wilson SF - RB,11,-,0
+2518,727, false   Elijah Hood Car - RB,4,-,0
+2519,540, false   Trey Williams Dal - RB,8,-,0
+2520,760, false   Dalton Crossan TB - RB NA,5,-,0
+2521,732, false   Justin Davis LAR - RB,12,-,0
+2522,805, false   Joel Bouagnon GB - RB,7,-,0
+2523,848, false   Darius Victor Ari - RB NA,9,-,0
+2524,875, false   David Williams Den - RB,10,-,0
+2525,691, false   Jalen Simmons NYG - RB Injured: Questionable,9,-,0
+2526,868, false   Mark Walton Cin - RB,9,-,0
+2527,759, false   Ricky Ortiz Atl - RB,8,-,0
+2528,927, false   Daniel Marx Atl - RB NA,8,-,0
+2529,959, false   De'Lance Turner Bal - RB,10,-,0
+2530,980, false   J.D. Moore KC - RB Injured: Injured Reserve,12,-,0
+2531,963, false   Dimitri Flowers NYJ - RB,11,-,0
+2532,975, false   Nick Sharga Oak - RB NA,7,-,0
+2533,1006, false   Lavon Coleman Hou - RB,10,-,0
+2534,877, false   Nick Bawden Det - RB Injured: Injured Reserve,6,-,0
+2535,493, false   Stevan Ridley Pit - RB,7,-,6.61
+2536,924, false   Demario Richard Atl - RB NA,8,-,0
+2537,647, false   Joe Kerridge GB - RB,7,-,0
+2538,795, false   LeShun Daniels Jr. GB - RB,7,-,0
+2539,1038, false   Anthony Manzo-Lewis LAC - RB,8,-,0
+2540,958, false   Gus Edwards Bal - RB,10,-,0
+2541,1054, false   Nick Holley LAR - RB,12,-,0
+2542,310, false   New York NYJ - DEF,11,-,74.61
+2543,1133, false   Rashad Greene Sr. Jax - WR,9,-,0
+2544,692, false   Jake Lampman TB - WR,5,-,0
+2545,809, false   Travis Rudolph NYG - WR Injured: Questionable,9,-,0
+2546,578, false   Ross Travis Ind - TE,9,-,0
+2547,761, false   Darrell Daniels Ind - TE,9,-,0
+2548,797, false   Jacob Hollister NE - TE,11,-,0
+2549,464, false   Kapri Bibbs Was - RB,4,-,14.95
+2550,396, false   Josh Reynolds LAR - WR Injured: Questionable,12,-,35.38
+2551,677, false   Elijhaa Penny Ari - RB,9,-,0
+2552,911, false   MarQueis Gray Mia - TE Injured: Questionable,11,-,0
+2553,437, false   Michael Floyd NO - WR,6,-,20.07
+2554,367, false   Jakeem Grant Mia - WR,11,-,42.37
+2555,416, false   Leonte Carroo Mia - WR,11,-,28.81
+2556,211, false   Zane Gonzalez Cle - K,11,-,110.89
+2557,529, false   Jordan Taylor Den - WR Injured: Physically Unable to Perform,10,-,0
+2558,589, false   Demarcus Robinson KC - WR,12,-,0
+2559,363, false   Sammie Coates Hou - WR Injured: Questionable,10,-,44.1
+2560,1101, false   Freddie Martino TB - WR Injured: Questionable,5,-,0
+2561,575, false   Kasen Williams Ind - WR,9,-,0
+2562,419, false   De'Anthony Thomas KC - WR Injured: Questionable,12,-,27.32
+2563,364, false   Malcolm Brown LAR - RB,12,-,43.18
+2564,625, false   Mike Tolbert Buf - RB NA,11,-,0
+2565,709, false   Josh Malone Cin - WR,9,-,0
+2566,704, false   Lance Dunbar LAR - RB NA,12,-,0
+2567,1100, false   Ryan Hewitt Cin - TE,9,-,0
+2568,776, false   Cethan Carter Cin - TE,9,-,0
+2569,433, false   Jonathan Williams NO - RB,6,-,20.67
+2570,706, false   Chad Williams Ari - WR,9,-,0
+2571,1151, false   Roberto Aguayo LAC - K,8,-,0
+2572,606, false   Michael Thomas LAR - WR,12,-,0
+2573,697, false   Troymaine Pope Hou - RB,10,-,0
+2574,1110, false   George Atkinson III NYJ - RB,11,-,0
+2575,445, false   Chad Hansen NYJ - WR,11,-,16.85
+2576,443, false   Kaelin Clay Buf - WR,11,-,17.13
+2577,414, false   Breshad Perriman Bal - WR,10,-,29.61
+2578,832, false   Kyle Juszczyk SF - RB,11,-,0
+2579,617, false   Daniel Lasco II NO - RB Injured: Physically Unable to Perform,6,-,0
+2580,664, false   Tanner McEvoy Sea - WR,7,-,0
+2581,489, false   Fitzgerald Toussaint Pit - RB,7,-,8.13
+2582,828, false   Knile Davis Chi - RB,5,-,0
+2583,1139, false   Malcolm Johnson SF - RB,11,-,0
+2584,350, false   Benny Cunningham Chi - RB,5,-,50.1
+2585,490, false   Cameron Artis-Payne Car - RB,4,-,7.98
+2586,678, false   Ben Braunecker Chi - TE,5,-,0
+2587,681, false   Cedric Peerman Cin - RB NA,9,-,0
+2588,1129, false   Jalston Fowler Sea - RB NA,7,-,0
+2589,425, false   D.J. Foster Ari - RB,9,-,24.64
+2590,369, false   Laquon Treadwell Min - WR,10,-,40.94
+2591,526, false   Kamar Aiken Phi - WR Injured: Questionable,9,-,0.5
+2592,426, false   Alex Erickson Cin - WR,9,-,23.69
+2593,471, false   ArDarius Stewart NYJ - WR Suspended,11,-,14.21
+2594,543, false   Zach Zenner Det - RB,6,-,0
+2595,382, false   Amara Darboh Sea - WR Injured: Questionable,7,-,37.97
+2596,806, false   Tanner Gentry Chi - WR,5,-,0
+2597,591, false   Paul Perkins NYG - RB Injured: Out,9,-,0
+2598,557, false   Clark Harris Cin - TE,9,-,0
+2599,786, false   Jamize Olawale Dal - RB Injured: Questionable,8,-,0
+2600,451, false   Bryce Treggs Phi - WR Injured: Questionable,9,-,15.97
+2601,391, false   Markus Wheaton Phi - WR Injured: Questionable,9,-,36.19
+2602,421, false   Tommylee Lewis NO - WR,6,-,26.62
+2603,835, false   Chris Thompson Hou - WR Injured: Questionable,10,-,0
+2604,851, false   Tommy Bohanon Jax - RB,9,-,0
+2605,1165, false   Brett Maher Dal - K,8,-,0
+2606,1166, false   Eddy Pineiro Oak - K Injured: Questionable,7,-,0
+2607,1168, false   Tyler Davis Buf - K,11,-,0
+2608,1163, false   David Marvin Atl - K,8,-,0
+2609,1161, false   Trevor Moore TB - K NA,5,-,0
+2610,1164, false   Michael Badgley Ind - K,9,-,0
+2611,1162, false   Matt McCrane Ari - K,9,-,0
+2612,1155, false   Marshall Koehn NYG - K,9,-,0
+2613,1167, false   Greg Joseph Mia - K,11,-,0
+2614,1156, false   Jonathan Brown Cin - K,9,-,0
+2615,191, false   Jason Sanders Mia - K,11,-,118.48
+2616,1153, false   Taylor Bertolet NYJ - K,11,-,0
+2617,1154, false   Ross Martin Cle - K,11,-,0
+2618,1158, false   Sam Ficken LAR - K,12,-,0
+2619,665, false   Brandon Tate NO - WR,6,-,0
+2620,429, false   Brian Hill Cin - RB,9,-,22.42
+2621,469, false   Ryan Switzer Oak - WR,7,-,14.88
+2622,644, false   Byron Marshall Was - RB Injured: Questionable,4,-,0
+2623,766, false   JoJo Natson Jr. LAR - WR,12,-,0
+2624,725, false   Noah Brown Dal - WR Injured: Questionable,8,-,0
+2625,642, false   Marcus Johnson Sea - WR,7,-,0
+2626,360, false   Pharoh Cooper LAR - WR,12,-,45.33
+2627,698, false   Brittan Golden Ari - WR NA,9,-,0
+2628,710, false   Jehu Chesson KC - WR,12,-,0
+2629,1103, false   Bernard Reedy TB - WR,5,-,0
+2630,833, false   Trey Edmunds NO - RB,6,-,0
+2631,1118, false   Branden Oliver Ind - RB Injured: Questionable,9,-,0
+2632,562, false   Anthony Sherman KC - RB,12,-,0
+2633,663, false   Tre Madden Sea - RB,7,-,0
+2634,354, false   Trevor Davis GB - WR Injured: Questionable,7,-,47.92
+2635,498, false   Brett Hundley GB - QB,7,-,4.59
+2636,810," false   Shane Smith NYG - RB,TE",9,-,0
+2637,604, false   Cody Core Cin - WR Injured: Questionable,9,-,0
+2638,494, false   Dwayne Washington Det - RB Injured: Questionable,6,-,6.34
+2639,769, false   Victor Bolden Jr. SF - WR Suspended,11,-,0
+2640,1105, false   Arrelious Benn Jax - WR NA,9,-,0
+2641,461, false   Jeff Janis Cle - WR,11,-,15.01
+2642,479, false   Kenjon Barner Car - RB,4,-,12.73
+2643,801, false   Fozzy Whittaker Car - RB Injured: Injured Reserve,4,-,0
+2644,531, false   Quan Bray Hou - WR,10,-,0
+2645,453, false   Isaiah McKenzie Den - WR,10,-,15.64
+2646,1108, false   Andre Roberts NYJ - WR,11,-,0
+2647,683, false   C.J. Ham Min - RB,10,-,0
+2648,462, false   Drew Stanton Cle - QB,11,-,14.96
+2649,521, false   Kevin Hogan Was - QB,4,-,3.47
+2650,570, false   Dwayne Harris Oak - WR,7,-,0
+2651,487, false   Mike Glennon Ari - QB Injured: Questionable,9,-,10.39
+2652,1142, false   Aaron Ripkowski GB - RB,7,-,0
+2653,572, false   Eric Weems Ten - WR NA,8,-,0
+2654,661, false   Lawrence Thomas NYJ - RB,11,-,0
+2655,594, false   Matthew Slater NE - WR Injured: Questionable,11,-,0
+2656,1102, false   Roosevelt Nix Pit - RB,7,-,0
+2657,593, false   Andy Janovich Den - RB,10,-,0
+2658,882, false   Zach Line NO - RB,6,-,0
+2659,1115, false   Senorise Perry Mia - RB,11,-,0
+2660,588, false   Tyler Ervin Hou - RB,10,-,0
+2661,731, false   Matthew Dayes Cle - RB,11,-,0
+2662,1091, false   David Fluellen Ten - RB,8,-,0
+2663,636, false   Kalif Raymond NYG - WR,9,-,0
+2664,738, false   Derrick Coleman Ari - RB,9,-,0
+2665,1137, false   Michael Burton Chi - RB Injured: Questionable,5,-,0
+2666,565, false   T.J. Yates Hou - QB NA,10,-,0
+2667,576, false   Terrell Watson NYG - RB NA,9,-,0
+2668,1149, false   Raheem Mostert SF - RB,11,-,0
+2669,751, false   Brandon Bolden NE - RB,11,-,0
+2670,499, false   Robert Griffin III Bal - QB,10,-,4.27
+2671,541, false   Akeem Hunt KC - RB NA,12,-,0
+2672,603, false   Derek Watt LAC - RB,8,-,0
+2673,495, false   Josh Ferguson Ind - RB Injured: Questionable,9,-,6.15
+2674,1088, false   Jay Prosch Hou - RB,10,-,0
+2675,580, false   Patrick DiMarco Buf - RB,11,-,0
+2676,539, false   James Develin NE - RB,11,-,0
+2677,1106, false   Keith Smith Oak - RB,7,-,0
+2678,829, false   Matt Barkley Cin - QB,9,-,0
+2679,602, false   Danny Vitale Cle - RB Injured: Questionable,11,-,0
+2680,560, false   Taiwan Jones Buf - RB,11,-,0
+2681,571, false   Jordan Todman Hou - RB NA,10,-,0
+2682,482, false   Brian Hoyer NE - QB,11,-,11.97
+2683,514, false   Cody Kessler Jax - QB,9,-,3.64
+2684,497, false   Taysom Hill NO - QB,6,-,5.4
+2685,228, false   AJ McCarron Buf - QB Injured: Doubtful,11,-,104.5
+2686,1089, false   Garrett Gilbert Car - QB,4,-,0
+2687,522, false   Austin Davis Sea - QB,7,-,3.45
+2688,1093, false   Stephen Morris Hou - QB NA,10,-,0
+2689,242, false   Lamar Jackson Bal - QB,10,125.2,101.14
+2690,937, false   J.T. Barrett NO - QB,6,-,0
+2691,873, false   Danny Etling NE - QB,11,-,0
+2692,874, false   Alex McGough Sea - QB,7,-,0
+2693,830, false   Kyle Sloter Min - QB,10,-,0
+2694,212, false   Josh Rosen Ari - QB,9,-,110.72
+2695,523, false   Chad Kelly Den - QB,10,-,3.4
+2696,869, false   Mike White Dal - QB,8,-,0
+2697,537, false   Taylor Heinicke Car - QB,4,-,0
+2698,886, false   Peter Pujals Min - QB,10,-,0
+2699,607, false   Jeff Driskel Cin - QB,9,-,0
+2700,896, false   Tyler Bray Chi - QB,5,-,0
+2701,866, false   Ryan Griffin TB - QB,5,-,0
+2702,486, false   Chad Henne KC - QB,12,-,10.68
+2703,977, false   Chase Litton KC - QB,12,-,0
+2704,746, false   Alek Torgersen Ari - QB NA,9,-,0
+2705,502, false   Kyle Lauletta NYG - QB,9,-,4.16
+2706,518, false   Cooper Rush Dal - QB,8,-,3.56
+2707,908, false   Kyle Allen Car - QB,4,-,0
+2708,500, false   Geno Smith LAC - QB,8,-,4.22
+2709,1059, false   Nick Stevens Den - QB NA,10,-,0
+2710,1040, false   Nic Shimonek LAC - QB,8,-,0
+2711,628, false   Joel Stave Cle - QB NA,11,-,0
+2712,501, false   Luke Falk Ten - QB,8,-,4.2
+2713,1086, false   David Fales Mia - QB,11,-,0
+2714,654, false   Mark Sanchez Chi - QB NA,5,-,0
+2715,510, false   Cardale Jones LAC - QB,8,-,3.83
+2716,721, false   Brad Kaaya Ind - QB,9,-,0
+2717,525, false   Colt McCoy Was - QB,4,-,2.74
+2718,517, false   Nate Sudfeld Phi - QB,9,-,3.61
+2719,901, false   Dalton Sturm Dal - QB,8,-,0
+2720,581, false   Scott Tolzien Ind - QB NA,9,-,0
+2721,994, false   Matt McGloin KC - QB,12,-,0
+2722,598, false   Josh Johnson Oak - QB NA,7,-,0
+2723,611, false   Brandon Doughty Ari - QB NA,9,-,0
+2724,496, false   Matt Schaub Atl - QB,8,-,6.12
+2725,1042, false   Brogan Roback Cle - QB,11,-,0
+2726,773, false   Nick Mullens SF - QB,11,-,0
+2727,511, false   Paxton Lynch Den - QB,10,-,3.7
+2728,789, false   Alex Tanney NYG - QB,9,-,0
+2729,892, false   Austin Allen TB - QB,5,-,0
+2730,520, false   Jake Rudock Det - QB,6,-,3.52
+2731,921, false   Jack Heneghan SF - QB,11,-,0
+2732,583, false   Christian Hackenberg Phi - QB,9,-,0
+2733,1119, false   Kellen Clemens LAC - QB NA,8,-,0
+2734,585, false   Connor Cook Oak - QB,7,-,0
+2735,484, false   Mason Rudolph Pit - QB,7,-,11.34
+2736,459, false   Teddy Bridgewater NYJ - QB,11,-,15.24
+2737,1126, false   Garrett Grayson Atl - QB,8,-,0
+2738,509, false   Joshua Dobbs Pit - QB,7,-,3.84
+2739,923, false   Kurt Benkert Atl - QB,8,-,0
+2740,505, false   Chase Daniel Chi - QB,5,-,4
+2741,454, false   Davis Webb NYG - QB,9,-,15.63
+2742,605, false   Brandon Allen LAR - QB,12,-,0
+2743,961, false   Tim Boyle GB - QB,7,-,0
+2744,1056, false   Luis Perez LAR - QB,12,-,0
+2745,503, false   Tanner Lee Jax - QB,9,-,4.14
+2746,768, false   Phillip Walker Ind - QB,9,-,0
+2747,513, false   Brandon Weeden Hou - QB,10,-,3.65
+2748,812, false   Tyler Ferguson Ten - QB NA,8,-,0
+2749,651, false   Joe Callahan Phi - QB,9,-,0
+2750,910, false   Chad Kanoff Ari - QB,9,-,0
+2751,672, false   Josh Woodrum Bal - QB,10,-,0
+2752,878, false   Logan Woodside Cin - QB,9,-,0
+2753,515, false   Tom Savage NO - QB,6,-,3.61
+2754,1092, false   Derek Anderson Car - QB NA,4,-,0
+2755,485, false   Landry Jones Pit - QB,7,-,10.71
+2756,483, false   Bryce Petty Mia - QB,11,-,11.51
+2757,508, false   Matt Cassel Det - QB,6,-,3.91
+2758,492, false   EJ Manuel Oak - QB,7,-,7.06
+2759,553, false   Ryan Mallett Bal - QB NA,10,-,0
+2760,245, false   Nick Foles Phi - QB Injured: Questionable,9,-,99.76
+2761,524, false   Nathan Peterman Buf - QB,11,-,3.35
+2762,504, false   Sean Mannion LAR - QB,12,-,4.02
+2763,1117, false   Joe Webb III Hou - QB,10,-,0
+20001,865, false   Derrius Guice Was - RB Injured: Injured Reserve,4,48.2,0
+20002,552, false   DeMarco Murray Ten - RB NA,8,55.3,0
