@@ -1,0 +1,118 @@
+---
+title: "Draft Kit for `Hacking` Yahoo"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+
+# useful stuff https://stackoverflow.com/questions/13353213/gradient-of-n-colors-ranging-from-color-1-and-color-2
+# https://rstudio.github.io/DT/functions.html
+# https://stackoverflow.com/questions/44101055/changing-font-size-in-r-datatables-dt
+# https://rstudio.github.io/DT/options.html
+# https://rstudio.github.io/DT/010-style.html
+# https://docs.google.com/spreadsheets/d/1WHRq6huZky7aLDWCZ4DKUVwXvNbb3qCWW2pNB_dk0OY/htmlview?usp=sharing&sle=true#
+library(flexdashboard)
+library(tidyverse)
+library(DT)
+library(formattable)
+library(here)
+
+xrank_df <- read_rds(here::here("./draft/data/", "2018-08-24_yahoo_xrank.rds"))
+
+ecr_df <- read_rds(here::here("./draft/data/", "2018-08-24_fp_ecr.rds"))
+
+df_temp <- left_join(ecr_df, xrank_df, by = c("name", "position", "team")) %>%
+  select(name, team, position, rank, yahoo_xrank, yahoo_prerank, yahoo_adp, fan_pts_proj) %>% 
+  mutate(yahoo_adp = as.numeric(yahoo_adp)) 
+sos_dt <- read_rds(here::here("./draft/data", "sos_dt.rds"))
+```
+
+Column {data-width=600}
+-----------------------------------------------------------------------
+
+### Most Accurate Experts vs Yahoo X-rank and ADP
+
+```{r}
+df_temp %>%
+  mutate(yah_xrank = case_when(position != "QB" & yahoo_xrank > yahoo_prerank ~ yahoo_prerank,
+                               position == "QB" ~ yahoo_xrank,
+                               TRUE ~ yahoo_xrank),
+         diff_rank = rank - yah_xrank) %>%
+  select(name:position, rank, yah_xrank, diff_rank, yahoo_adp) %>% 
+  datatable(.,
+    caption = htmltools::tags$caption(
+      style = 'caption-side: top; text-align: left;',
+      'Table 1: ', 'Rank difference between Yahoo and most accurate experts'
+    ),
+    filter = "top",
+    colnames = c("Name", "Team", "Pos", "Rank", "X-rank", "Diff", "ADP"),
+    options = list(
+      pageLength = 50, autowidth = T,
+      paginate = F, sDom  = '<"top">lrt<"bottom">ip',
+      columnDefs = list(list(className = 'dt-center', targets = 1:7))
+    )
+  ) %>%
+  formatStyle(
+    columns = 1:7, fontSize = '95%'
+  ) %>% 
+  formatStyle(
+    "diff_rank",
+    target = 'row',
+    backgroundColor = styleInterval(c(-5, 0, 5), c("#00800050", NA, NA, "#ff000050")),
+    fontWeight = 'bold'
+  )
+```
+
+
+
+Column {data-width=400}
+-----------------------------------------------------------------------
+
+### Team Strength of Schedule
+
+
+```{r}
+colfunc <- colorRampPalette(c("white", "red"))
+sos_dt %>%
+  select(-abb, -k_rank, -def_rank) %>%
+  datatable(.,
+            caption = htmltools::tags$caption(
+              style = 'caption-side: top; text-align: left;',
+              'Table 1: ', 'Easiest schedules by team and position'
+            ),
+            filter = "top",
+            colnames = c("Team", "QB", "RB", "WR", "TE"),
+            options = list(
+              pageLength = 32, autowidth = T,
+              paginate = F, sDom  = '<"top">lrt<"bottom">ip',
+              columnDefs = list(list(className = 'dt-center', targets = 1:5))
+            )
+  ) %>%
+  formatStyle(
+    columns = 1:5, fontSize = '95%'
+  ) %>% 
+  formatStyle(
+    "qb_rank",
+    backgroundColor = styleInterval(1:31, 
+                                    colfunc(32))
+  ) %>%
+  formatStyle(
+    "rb_rank",
+    backgroundColor = styleInterval(1:31, 
+                                    colfunc(32))
+  ) %>%
+  formatStyle(
+    "wr_rank",
+    backgroundColor = styleInterval(1:31, 
+                                    colfunc(32))
+  ) %>%
+  formatStyle(
+    "te_rank",
+    backgroundColor = styleInterval(1:31, 
+                                    colfunc(32))
+  )
+```
+
